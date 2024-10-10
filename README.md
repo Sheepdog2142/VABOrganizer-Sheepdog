@@ -58,6 +58,15 @@ This repository currently includes VABOrganizer configuration files for the foll
 - **Airplane Plus** (Support from JadeOfMaar)
 - **CryoEnginesExtensions** (Support from JadeOfMaar)
 - **KPBS** (Support from JadeOfMaar)
+- ALCOR (Support from jthero3)
+- Bumblebee (Support from jthero3)
+- Coriolis Space Systems (Support from jthero3)
+- DaMichel's CargoBays (Support from jthero3)
+- HullcamVDSContinued (Support from jthero3)
+- Luciole (Support from jthero3)
+- Mk2Expansion (Support from jthero3)
+- NSS/OctoSat-SOAR S3-A300t (Support from jthero3)
+- Planetside Exploration Technologies (Support from jthero3)
 
 ===========On 1.2 Dev Branch================
 
@@ -70,7 +79,6 @@ Removed/Moved:
 In Progress:
 - **Nice MKseries Body**
 - **HabTech2**
-- **Mk2 Stockalike Expansion**
 - **Possibly More**
 
 
