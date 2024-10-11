@@ -18,58 +18,93 @@ Welcome to the official repository for VABOrganizer support configurations. This
 
 ## Supported Mods
 
-VABOrganizer: https://github.com/post-kerbin-mining-corporation/VABOrganizer
+**Required: [VABOrganizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer)**
 
-This repository currently includes VABOrganizer configuration files for the following mods:
+### Includes VABOrganizer configuration files for the following mods:
 
-- **Universal Storage II**
-- **Tundra Exploration**
-- **MDAV**
+- **Airplane Plus** (Support from JadeOfMaar)
+- **ALCOR - Advanced Landing Capsule for Orbital Rendezvous** (Support from jthero3)
 - **Artemis Construction Kit**
+- **ASTRO - AeroSpace Technologies and Reusable Operations**
+- **BREAD - Bruno's Rocket Emporium And Designs**
+- **Bumblebee** (Support from jthero3)
+- **Coriolis Space Systems** (Support from jthero3)
+- **CryoEnginesExtensions** (Support from JadeOfMaar)
+- **DaMichel's CargoBays** (Support from jthero3)
+- **DeepFreeze Continued** (Support from Adventurer13)
+- **DMagic Orbital Science** (Support from Adventurer13)
+- **Feline Utility Rovers** (Support from JadeOfMaar)
+- **Global Construction** (Support from Adventurer13)
+- **HabTech Robotics** (Support from Adventurer13)
+- **HullcamVDSContinued** (Support from jthero3)
+- **JX2Antenna** (Support from Adventurer13)
+- **Kerbalism**
+- **Kerbal Actuators** (Support from Adventurer13)
+- **Kerbal Engineer Redux** (Support from Adventurer13)
+- **Kerbal Planetary Base Systems** (Support from Adventurer13)
+- **KODS - Kiwi Orbital Designs Services**
+- **Less Real Than Real(ism) & LRTR-Kerbalism**
+- **Lithobrake** (Support from zhangyuesai)
+- **Luciole** (Support from jthero3)
+- **Mark IV Spaceplane System**
+- **MechJeb2** (Support from Adventurer13)
+- **Mk2Expansion** (Support from jthero3)
+- **Mk-X Spaceplane Parts**
+- **Modular Computer Package Revived**
+- **NSS/OctoSat-SOAR S3-A300t** (Support from jthero3)
+- **ORANGES - Optimized Rocketry aNd General Exploration Systems**
+- **Photon Corp**
+- **Planetside Exploration Technologies** (Support from jthero3)
+- **Procedural Parts**
+- **Provenance Aerospace**
+- **RemoteTech-Antennas** (Support from Adventurer13)
+- **Rocket Motor Menagerie**
+- **ScanSat** (Support from Adventurer13)
+- **Shuttle Orbiter Construction Kit**
+- **Smart Parts Continued** (Support from Adventurer13)
+- **SpaceY** (Support from zhangyuesai)
+- **SSR 0.35m MicroSat and Airlaunch Vehicle** (Support from Adventurer13)
 - **Starship Expansion**
-- **Planetside_Exploration_Technologies**
-- **SOCK**
+- **Taerobee**
 - **Tantares**
 - **TantaresLV**
-- **Photon Corp**
-- **Procedural Parts**
-- **Taerobee**
-- **ModularComputerPackageRevived**
-- **Mk-X Spaceplane Parts**
-- **Kerbalism**
-- **Less Real Than Real(ism) & LRTR-Kerbalism**
-- **Mark IV Spaceplane System**
-- **KODS - Kiwi Orbital Designs Services**
-- **BREAD - Bruno's Rocket Emporium And Designs**
-- **Provenance Aerospace**
-- **DMagic Orbital Science (Support from Adventurer13)**
-- **DeepFreeze Continued (Support from Adventurer13)**
-- **Global Construction (Support from Adventurer13)**
+- **Tundra Exploration**
+- **Universal Storage II**
 - **USI Series** (Support from Adventurer13 & jthero3)
-- **SpaceY (Support from zhangyuesai)**
-- **Lithobrake (Support from zhangyuesai)**
-- Subcategories: LifeSupport
-- **Standalone "Cores" subcatagory**
-- **ScanSat** (Support from Adventurer13)
-- **JX2Antenna** (Support from Adventurer13)
-- **RemoteTech-Antennas** (Support from Adventurer13)
-- **Airplane Plus** (Support from JadeOfMaar)
-- **CryoEnginesExtensions** (Support from JadeOfMaar)
-- **KPBS** (Support from JadeOfMaar)
 
-===========On 1.2 Dev Branch================
+### Additional Subcategory Support:
 
+- **Buoyancy**
+- **Cameras**
+- **Cores**
+- **Expansion Boards**
+- **Fabrication**
+- **Fluid Containers**
+- **Life Support**
+- **Manipulator Arms**
+- **PLC** - (Programmable Logic Controller)
+- **Resource Utilization**
+- **Visual Scanners**
 
-Removed/Moved:
-- **OPT Space Plane Parts** (VAB Organizer - Jade's Configs)
-- **MK-33** (VAB Organizer - Jade's Configs)
-- **Buffalo2** (VAB Organizer - Jade's Configs)
+### Additional Bulkhead Tags:
+
+- **11m**   `size8p8`
+- **15m**   `size12`
+- **20m**   `size16`
+- **30m**   `size24`
+- **PCB**   `CircuitBoard`
+
+### ================On Dev Branch================
 
 In Progress:
 - **Nice MKseries Body**
 - **HabTech2**
-- **Mk2 Stockalike Expansion**
 - **Possibly More**
+
+Removed/Moved:
+- **OPT Space Plane Parts** ([VAB Organizer - Jade's Configs](https://github.com/JadeOfMaar/VABOrganizer-Jade))
+- **MK-33** ([VAB Organizer - Jade's Configs](https://github.com/JadeOfMaar/VABOrganizer-Jade))
+- **Buffalo2** ([VAB Organizer - Jade's Configs](https://github.com/JadeOfMaar/VABOrganizer-Jade))
 
 
 ## Contribution
@@ -83,7 +118,7 @@ We welcome contributions from the community! If you have configurations for addi
    ```bash
    git checkout -b feature/new-mod-support
    ```
-3. **Submit a Pull Request**: Once your changes are ready, submit a pull request to this repository for review.
+3. **Submit a Pull Request**: Once your changes are ready, submit a pull request to the dev branch of this repository for review.
 
 ## License
 
