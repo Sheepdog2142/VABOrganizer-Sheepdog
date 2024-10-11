@@ -25,6 +25,7 @@ Welcome to the official repository for VABOrganizer support configurations. This
 - **Airplane Plus** (Support from JadeOfMaar)
 - **ALCOR - Advanced Landing Capsule for Orbital Rendezvous** (Support from jthero3)
 - **Artemis Construction Kit**
+- **ASTRO - AeroSpace Technologies and Reusable Operations**
 - **BREAD - Bruno's Rocket Emporium And Designs**
 - **Bumblebee** (Support from jthero3)
 - **Coriolis Space Systems** (Support from jthero3)
@@ -46,7 +47,6 @@ Welcome to the official repository for VABOrganizer support configurations. This
 - **Lithobrake** (Support from zhangyuesai)
 - **Luciole** (Support from jthero3)
 - **Mark IV Spaceplane System**
-- **MDAV - Mars Ascent Descent Vehicle**
 - **MechJeb2** (Support from Adventurer13)
 - **Mk2Expansion** (Support from jthero3)
 - **Mk-X Spaceplane Parts**
