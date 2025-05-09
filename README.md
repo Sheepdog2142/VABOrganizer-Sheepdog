@@ -48,7 +48,8 @@ Welcome to the official repository for VABOrganizer support configurations. This
 - **Luciole** (Support from jthero3)
 - **Mark IV Spaceplane System**
 - **MechJeb2** (Support from Adventurer13)
-- **Mk2Expansion** (Support from jthero3)
+- **Mk2-Expansion** (Support from jthero3)
+- **Mk3-Expansion** (Support from aspcct)
 - **Mk-X Spaceplane Parts**
 - **Modular Computer Package Revived**
 - **NSS/OctoSat-SOAR S3-A300t** (Support from jthero3)
@@ -71,6 +72,8 @@ Welcome to the official repository for VABOrganizer support configurations. This
 - **Tundra Exploration**
 - **Universal Storage II**
 - **USI Series** (Support from Adventurer13 & jthero3)
+- **Nice MKseries Body**
+- **KW rocketry** (Support from aspcct)
 
 ### Additional Subcategory Support:
 
@@ -97,7 +100,7 @@ Welcome to the official repository for VABOrganizer support configurations. This
 ### ================On Dev Branch================
 
 In Progress:
-- **Nice MKseries Body**
+
 - **HabTech2**
 - **Possibly More**
 
