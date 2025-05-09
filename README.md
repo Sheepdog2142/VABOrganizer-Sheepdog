@@ -22,7 +22,7 @@ Welcome to the official repository for VABOrganizer support configurations. This
 
 ### Includes VABOrganizer configuration files for the following mods:
 
-- **Airplane Plus** (Support from JadeOfMaar)
+- **Airplane Plus** (Support from JadeOfMaar & aspctt)
 - **ALCOR - Advanced Landing Capsule for Orbital Rendezvous** (Support from jthero3)
 - **Artemis Construction Kit**
 - **ASTRO - AeroSpace Technologies and Reusable Operations**
@@ -49,7 +49,7 @@ Welcome to the official repository for VABOrganizer support configurations. This
 - **Mark IV Spaceplane System**
 - **MechJeb2** (Support from Adventurer13)
 - **Mk2-Expansion** (Support from jthero3)
-- **Mk3-Expansion** (Support from aspcct)
+- **Mk3-Expansion** (Support from aspctt)
 - **Mk-X Spaceplane Parts**
 - **Modular Computer Package Revived**
 - **NSS/OctoSat-SOAR S3-A300t** (Support from jthero3)
@@ -73,7 +73,7 @@ Welcome to the official repository for VABOrganizer support configurations. This
 - **Universal Storage II**
 - **USI Series** (Support from Adventurer13 & jthero3)
 - **Nice MKseries Body**
-- **KW rocketry** (Support from aspcct)
+- **KW rocketry** (Support from aspctt)
 
 ### Additional Subcategory Support:
 
